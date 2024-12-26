@@ -1,0 +1,13 @@
+## 🔥 DAILY SUCCESS AFFIRMATIONS
+> "I AM A MONEY MAGNET ON STEROIDS"
+> "WEALTH FLOWS TO ME LIKE NIAGARA FALLS"
+> "I CREATE VALUE WORTH MILLIONS"
+> "MY MIND IS A WEALTH-GENERATING MACHINE"
+> "I ATTRACT OPPORTUNITIES LIKE A GODDAMN SUPERNOVA"
+
+## 💎 WEALTH MINDSET PRINCIPLES
+1. Money loves speed - ACT FAST
+2. Network = Net worth
+3. Skills pay the motherf*cking bills
+4. Time is worth more than money
+5. Value creation = Wealth creation
