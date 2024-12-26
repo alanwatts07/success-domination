@@ -1,24 +1,26 @@
 # WEEKLY PROGRESS TRACKER
+## WEEK OF: [__________] - [___________]
+
+# WEEKLY PROGRESS TRACKER
 ## WEEK OF: [DATE] - [DATE]
 
 ### 🎯 DAILY ACHIEVEMENT GRID
-```
-| ACTIVITY | MON | TUE | WED | THU | FRI | SAT | SUN |
-|----------|-----|-----|-----|-----|-----|-----|-----|
-| 5:30 Wake Up | □ | □ | □ | □ | □ | □ | □ |
-| Breathing | □ | □ | □ | □ | □ | □ | □ |
-| Yoga | □ | □ | □ | □ | □ | □ | □ |
-| Meditation | □ | □ | □ | □ | □ | □ | □ |
-| AI Work | □ | □ | □ | □ | □ | □ | □ |
-| Market Study | □ | □ | □ | □ | □ | □ | □ |
-```
 
-### 📊 WEEKLY METRICS
-```
-MORNING ROUTINE SUCCESS RATE: ___%
-TOTAL WAKE-UP WINS: ___/7
-TOTAL MEDITATION HOURS: ___
-TOTAL AI STUDY HOURS: ___
+| ACTIVITY | MON | TUE | WED | THU | FRI | SAT | SUN |
+|:---------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 5:30 Wake Up | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| Breathing | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| Yoga | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| Meditation | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| AI Work | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| Market Study | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+
+### 📊 WEEKLY STATS
+- Morning Routine Success: ___%
+- Wake-up Wins: __/7
+- Meditation Hours: __
+- AI Study Hours: __
+
 
 ### 🌟 WEEKLY HIGHLIGHTS
 * Biggest Win: _________________
@@ -35,8 +37,11 @@ Current Streaks:
 ### 📈 MONTHLY PROGRESS CHART
 ```
 WEEK 1: [▓▓▓▓░░░░░░] 40%
+
 WEEK 2: [▓▓▓▓▓░░░░░] 50%
+
 WEEK 3: [▓▓▓▓▓▓░░░░] 60%
+
 WEEK 4: [▓▓▓▓▓▓▓░░░] 70%
 ```
 
@@ -52,12 +57,19 @@ WEEK 4: [▓▓▓▓▓▓▓░░░] 70%
 ### 📝 DAILY QUICK LOG
 ```
 MON: _____________________
+
 TUE: _____________________
+
 WED: _____________________
+
 THU: _____________________
+
 FRI: _____________________
+
 SAT: _____________________
+
 SUN: _____________________
+
 ```
 
 ### 🌅 MORNING ROUTINE SUCCESS METRICS
