@@ -1,5 +1,5 @@
 # WEEKLY PROGRESS TRACKER
-## WEEK OF: [__________] - [___________]
+## WEEK OF: [12-23] - [12-29]
 
 ### 🎯 DAILY ACHIEVEMENT GRID
 
