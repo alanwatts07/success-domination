@@ -1,16 +1,16 @@
 # WEEKLY PROGRESS TRACKER
-## WEEK OF: [12-23] - [12-29]
+## WEEK OF: [__________] - [___________]
 
 ### 🎯 DAILY ACHIEVEMENT GRID
 
 | ACTIVITY | MON | TUE | WED | THU | FRI | SAT | SUN |
 |:---------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 5:30 Wake Up | ⬜ | ⬜ | ⬜ | ✅ | ⬜ | ⬜ | ⬜ |
-| Breathing | ⬜ | ⬜ | ⬜ | ⬜ | ✅ | ⬜ | ⬜ |
+| Breathing | ⬜ | ⬜ | ⬜ | ✅ | ⬜ | ⬜ | ⬜ |
 | Yoga | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| Meditation | ⬜ | ⬜ | ⬜ | ⬜ | ✅ | ⬜ | ⬜ |
+| Meditation | ⬜ | ⬜ | ⬜ | ✅ | ⬜ | ⬜ | ⬜ |
 | AI Work | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| Market Study | ⬜ | ⬜ | ⬜ | ⬜ | ✅ | ⬜ | ⬜ |
+| Market Study | ⬜ | ⬜ | ⬜ | ✅ | ⬜ | ⬜ | ⬜ |
 
 ### 📊 WEEKLY STATS
 - Morning Routine Success: ___%
