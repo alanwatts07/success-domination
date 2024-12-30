@@ -36,8 +36,6 @@
 
 ### 📊 9:30 AM - MARKET MASTERY
 * Deep market analysis
-* Strategic planning
-* Wealth optimization
 * _Duration: 1 hour_
 
 ---
